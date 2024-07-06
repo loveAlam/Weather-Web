@@ -114,3 +114,20 @@ body {
     min-height: 94vh;
   }
 }
+
+footer {
+  background: #042940; /* Updated color to match preference */
+  padding: 20px 33px;
+  color: #fff;
+  text-align: center;
+}
+
+footer span a {
+  color: #5ce1e6;
+  text-decoration: none;
+}
+
+footer span a:hover {
+  text-decoration: underline;
+}
+
