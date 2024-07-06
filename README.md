@@ -1,4 +1,5 @@
 # Weather_webApp
+![Example Image](https://github.com/loveAlam/Weather-Web/blob/main/Screenshot%202024-07-06%20221331.png)
 
 ## I used open weather API to fetch data 
 
